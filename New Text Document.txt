@@ -1,0 +1,16 @@
+{ "pushNotificationRequest":{ "msgHdr":{ "msgId":"100", "cnvId":"100", "extRefId":"100", "bizObjId":"100", "appId":"RIB", "timestamp":"2016-08-06T16:52:06.465+05:30" }, "msgBdy":{ "accessToken":"AIzaSyCBR5mPR6O0ZDnYKOGOiKS4sYAjRdmESz0", "body":"{\"notification\":{\"body\":\"This is body\",\"title\":\"This is title \",\"icon\":\"timer\",\"priority\":\"high\",\"sound:\"default\" },\"data\":{\"notificationCat\":\"A\",\"notificationText\":\"You account was debited on 15-July-2016 on 2:43PM. Click here to view details\",\"notificationDetail\":\"Your accound 18299390009938 was debited by Rs.4500 on 15-July-2016 2:45 PM against Billpayment of DTH\",\"notificationDetailUrl\":\"www.idfcbank.com\",\"imageUrl\":\"http://imgae.google.com\",\"callToAction\":\"launchpad-retail.goToForgotPassword\",\"id\":871874234 },\"registration_ids\":[\"e8za7x9lbY8:APA91bG6w_HuBaPVufp0lLGpqULk5jVtHJ_K7_dhvDKw68-b2K7sUbMaZIWy-JxjOnizsdBX9rmh7a9FaNmbpkQhli_K592jhIxGknyWNh3dFS0KtKhTKoVKh-kISDghmJPgEcsjstdM\",\"e8za7x9lbY8:APA91bG6w_HuBaPVufp0lLGpqULk5jVtHJ_K7_dhvDKw68-b2K7sUbMaZIWy-JxjOnizsdBX9rmh7a9FaNmbpkQhli_K592jhIxGknyWNh3dFS0KtKhTKoVKh-kISDghmJPgEcsjstdM1\"], \"delay_while_idle\" : false}" } } }
+
+
+
+msgHeader:{ "deviceId": "10945234u5kajsdfkask934u5haksjh1", "ipAddress": "123.34.56.43", "timeZone": "India/Delhi", 	"nwProvider": "Airtel", "connectionMode":  "WIFI", "geoLatitude": "44.968046", "geoLongitude": "-94.420307"}
+mpin:6785
+smsReadFlag:true
+notificationFlag:false
+notificationToken:111
+txnType:FORGOTMPIN
+customerId:111
+
+
+
+
+GetCustomerSessionController.java
